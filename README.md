@@ -1,5 +1,3 @@
-# practice-login-automation
-
 # 🧪 Practice Login Automation
 
 ![Java](https://img.shields.io/badge/Java-17-blue?logo=java)
