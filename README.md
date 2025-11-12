@@ -43,7 +43,7 @@ practice-login-automation/
 │ ├── java/
 │ │ ├── hooks/ # Configuración global (Before/After)
 │ │ ├── pages/ # Page Objects
-│ │ ├── steps/ # Step Definitions (Glue)
+│ │ ├── steps/ # Step Definitions
 │ │ └── support/ # Utilidades: Driver, Config, Evidence...
 │ └── resources/
 │ └── features/ # Archivos .feature (Gherkin)
@@ -51,6 +51,17 @@ practice-login-automation/
 ├── pom.xml # Dependencias y configuración de Maven
 └── 
 ```
+💡 Resumen de carpetas clave:
+
+hooks/ → contiene la configuración global (Before/After Hooks de Cucumber).
+
+pages/ → implementa el patrón Page Object (cada página web tiene su clase).
+
+steps/ → traduce los pasos Gherkin a código ejecutable.
+
+support/ → utilidades generales (manejo del driver, capturas, configuración, etc.).
+
+features/ → define los escenarios de prueba en lenguaje BDD (Gherkin).
 
 ---
 
