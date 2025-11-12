@@ -29,6 +29,20 @@ el **login** en la web de práctica [Practice Test Automation](https://practicet
 | **Maven** | 3.9+ |
 | **Web** | [Practice Test Automation](https://practicetestautomation.com/) |
 
+🧰 Tecnologías y herramientas usadas
+
+Lenguaje: Java
+
+Frameworks: Selenium, Cucumber (BDD con Gherkin)
+
+Gestor de dependencias: Maven
+
+IDE: IntelliJ IDEA 2024.3.1.1 (Community Edition)
+
+Evidencias: Capturas automáticas por escenario
+
+Ejecución: desde IntelliJ
+
 ---
 
 ## ⚙️ Estructura del proyecto
