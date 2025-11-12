@@ -35,6 +35,7 @@ el **login** en la web de práctica [Practice Test Automation](https://practicet
 
 ## ⚙️ Estructura del proyecto
 
+```
 practice-login-automation/
 │
 ├── src/
@@ -49,7 +50,7 @@ practice-login-automation/
 │
 ├── pom.xml # Dependencias y configuración de Maven
 └── 
-
+```
 
 ---
 
